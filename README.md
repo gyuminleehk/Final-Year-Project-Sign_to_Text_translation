@@ -1,5 +1,5 @@
 
-#  EyEar – Sign-to-Text Translation with Transformer-based Edge AI
+#  EyEar – ASL Sign-to-Text Translation with Transformer-based Edge AI
 
 This repository presents the **Sign Language to Text** recognition module of **EyEar**, a real-time bidirectional wearable translator designed for the Deaf and Mute communities.  
 Developed as part of my Final Year Project at HKUST.
@@ -8,7 +8,7 @@ Developed as part of my Final Year Project at HKUST.
 
 ##  My Role
 
-- Developed the **sign-to-text translation module**
+- Developed the **ASL sign-to-text translation module**
 - Built and trained a **Transformer-based deep learning model** on MediaPipe hand keypoints
 - Integrated the trained model into an **edge AI system** for real-time inference
 - Designed experiments and performance evaluation
