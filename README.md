@@ -73,6 +73,34 @@ Open sign_to_text_model_training.ipynb
 The best model will be saved as `./best_model.pt`.
 
 ---
+## 📊 Visualization
+
+### Wearable Prototype
+![Wearable Prototype](figures/wearableprototype.png)
+
+### Keypoint Extraction via Mediapipe
+![Keypoint Extraction](figures/keypointextraction.png)
+### npy File Example
+![npy file example](figures/npyexample.png)
+### Model Architecture
+![Model Architecture](figures/modelarchitecture.png)
+### Accuracy graph
+![Accuracy](figures/acc.png)
+### Loss graph
+![Loss](figures/loss.png)
+### Prediction Sample 
+![Prediction](figures/sample1.png)
+![Prediction](figures/sample2.png)
+### Top 5 Prediction
+![Top5](figures/top5.png)
+
+### Final Output
+![Final Output](figures/finaloutput.png)
+### Final Sample Wearable
+![Final Sample Wearable](figures/finalsamplewearable.png)
+
+
+---
 
 ## Awards & Recognition
 
