@@ -76,28 +76,28 @@ The best model will be saved as `./best_model.pt`.
 ## 📊 Visualization
 
 ### Wearable Prototype
-![Wearable Prototype](figures/wearableprototype.png)
+![Wearable Prototype](./wearableprototype.png)
 
 ### Keypoint Extraction via Mediapipe
-![Keypoint Extraction](figures/keypointextraction.png)
+![Keypoint Extraction](./keypointextraction.png)
 ### npy File Example
-![npy file example](figures/npyexample.png)
+![npy file example](./npyexample.png)
 ### Model Architecture
-![Model Architecture](figures/modelarchitecture.png)
+![Model Architecture](./modelarchitecture.png)
 ### Accuracy graph
-![Accuracy](figures/acc.png)
+![Accuracy](./acc.png)
 ### Loss graph
-![Loss](figures/loss.png)
+![Loss](./loss.png)
 ### Prediction Sample 
-![Prediction](figures/sample1.png)
-![Prediction](figures/sample2.png)
+![Prediction](./sample1.png)
+![Prediction](./sample2.png)
 ### Top 5 Prediction
-![Top5](figures/top5.png)
+![Top5](./top5.png)
 
 ### Final Output
-![Final Output](figures/finaloutput.png)
+![Final Output](./finaloutput.png)
 ### Final Sample Wearable
-![Final Sample Wearable](figures/finalsamplewearable.png)
+![Final Sample Wearable](./finalsamplewearable.png)
 
 
 ---
