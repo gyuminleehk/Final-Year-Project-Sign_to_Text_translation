@@ -73,7 +73,7 @@ Open sign_to_text_model_training.ipynb
 The best model will be saved as `./best_model.pt`.
 
 ---
-## 📊 Visualization
+## Visualization
 
 ### Wearable Prototype
 ![Wearable Prototype](./wearableprototype.png)
